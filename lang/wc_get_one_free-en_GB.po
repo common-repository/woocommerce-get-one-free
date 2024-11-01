@@ -1,0 +1,139 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Get One Free - a WooCommerce Extension\n"
+"POT-Creation-Date: 2013-11-08 09:07+0100\n"
+"PO-Revision-Date: 2013-11-08 09:24+0100\n"
+"Last-Translator: \n"
+"Language-Team: Rene Puchinger\n"
+"Language: English\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.7\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: c:\\develop\\www\\wp-content\\plugins\\woocommerce-"
+"get-one-free\n"
+
+#: c:\develop\www\wp-content\plugins\woocommerce-get-one-free/woocommerce-get-one-free.php:33
+#: c:\develop\www\wp-content\plugins\woocommerce-get-one-free/woocommerce-get-one-free.php:141
+#: c:\develop\www\wp-content\plugins\woocommerce-get-one-free/woocommerce-get-one-free.php:247
+msgid "Get One Free"
+msgstr "Get One Free"
+
+#: c:\develop\www\wp-content\plugins\woocommerce-get-one-free/woocommerce-get-one-free.php:72
+msgid "Settings"
+msgstr "Settings"
+
+#: c:\develop\www\wp-content\plugins\woocommerce-get-one-free/woocommerce-get-one-free.php:141
+msgid "The following options are specific to the Get One Free extension."
+msgstr "The following options are specific to the Get One Free extension."
+
+#: c:\develop\www\wp-content\plugins\woocommerce-get-one-free/woocommerce-get-one-free.php:144
+msgid "Motivating message visible"
+msgstr "Motivating message visible"
+
+#: c:\develop\www\wp-content\plugins\woocommerce-get-one-free/woocommerce-get-one-free.php:149
+msgid ""
+"Display a message on the cart page motivating the customer to purchase more "
+"items in order to get the free item."
+msgstr ""
+"Display a message on the cart page motivating the customer to purchase more "
+"items in order to get the free item."
+
+#: c:\develop\www\wp-content\plugins\woocommerce-get-one-free/woocommerce-get-one-free.php:153
+msgid "The motivating message text"
+msgstr "The motivating message text"
+
+#: c:\develop\www\wp-content\plugins\woocommerce-get-one-free/woocommerce-get-one-free.php:157
+#: c:\develop\www\wp-content\plugins\woocommerce-get-one-free/woocommerce-get-one-free.php:330
+msgid ""
+"By ordering at least %QUANTITY% items of %PRODUCT%, you will get one item "
+"for free after checkout."
+msgstr ""
+"By ordering at least %QUANTITY% items of %PRODUCT%, you will get one item "
+"for free after checkout."
+
+#: c:\develop\www\wp-content\plugins\woocommerce-get-one-free/woocommerce-get-one-free.php:158
+msgid ""
+"Optionally use the identifiers %PRODUCT% and %QUANTITY% which will be "
+"automatically substituted by the actual product name and the minimal "
+"quantity."
+msgstr ""
+"Optionally use the identifiers %PRODUCT% and %QUANTITY% which will be "
+"automatically substituted by the actual product name and the minimal "
+"quantity."
+
+#: c:\develop\www\wp-content\plugins\woocommerce-get-one-free/woocommerce-get-one-free.php:162
+msgid "\"Eligible for free item\" message visible"
+msgstr "\"Eligible for free item\" message visible"
+
+#: c:\develop\www\wp-content\plugins\woocommerce-get-one-free/woocommerce-get-one-free.php:167
+msgid ""
+"Display a message on the cart after the customer is eligible for the free "
+"item."
+msgstr ""
+"Display a message on the cart after the customer is eligible for the free "
+"item."
+
+#: c:\develop\www\wp-content\plugins\woocommerce-get-one-free/woocommerce-get-one-free.php:171
+msgid "The \"Eligible for free item\" message text"
+msgstr "The \"Eligible for free item\" message text"
+
+#: c:\develop\www\wp-content\plugins\woocommerce-get-one-free/woocommerce-get-one-free.php:175
+#: c:\develop\www\wp-content\plugins\woocommerce-get-one-free/woocommerce-get-one-free.php:324
+msgid "You will get one item of %PRODUCT% for free after checkout."
+msgstr "You will get one item of %PRODUCT% for free after checkout."
+
+#: c:\develop\www\wp-content\plugins\woocommerce-get-one-free/woocommerce-get-one-free.php:176
+msgid ""
+"Optionally use the identifier %PRODUCT% which will be automatically "
+"substituted by the actual product name."
+msgstr ""
+"Optionally use the identifier %PRODUCT% which will be automatically "
+"substituted by the actual product name."
+
+#: c:\develop\www\wp-content\plugins\woocommerce-get-one-free/woocommerce-get-one-free.php:180
+msgid "The CSS style for the \"Free\" indicator of the free product."
+msgstr "The CSS style for the \"Free\" indicator of the free product."
+
+#: c:\develop\www\wp-content\plugins\woocommerce-get-one-free/woocommerce-get-one-free.php:268
+msgid "Get One Free enabled"
+msgstr "Get One Free enabled"
+
+#: c:\develop\www\wp-content\plugins\woocommerce-get-one-free/woocommerce-get-one-free.php:269
+msgid "Minimal quantity"
+msgstr "Minimal quantity"
+
+#: c:\develop\www\wp-content\plugins\woocommerce-get-one-free/woocommerce-get-one-free.php:269
+msgid ""
+"Enter the minimal quantity which the customer must purchase in order to get "
+"one free item of this product."
+msgstr ""
+"Enter the minimal quantity which the customer must purchase in order to get "
+"one free item of this product."
+
+#: c:\develop\www\wp-content\plugins\woocommerce-get-one-free/woocommerce-get-one-free.php:273
+msgid "Information about the action visible in the product description"
+msgstr "Information about the action visible in the product description"
+
+#: c:\develop\www\wp-content\plugins\woocommerce-get-one-free/woocommerce-get-one-free.php:273
+msgid ""
+"Enter information about the discount action, that will be visible on the "
+"product page."
+msgstr ""
+"Enter information about the discount action, that will be visible on the "
+"product page."
+
+#: c:\develop\www\wp-content\plugins\woocommerce-get-one-free/woocommerce-get-one-free.php:353
+#: c:\develop\www\wp-content\plugins\woocommerce-get-one-free/woocommerce-get-one-free.php:428
+msgid "Free!"
+msgstr "Free!"
+
+#: c:\develop\www\wp-content\plugins\woocommerce-get-one-free/woocommerce-get-one-free.php:412
+msgid "Backordered"
+msgstr "Backordered"
+
+#: c:\develop\www\wp-content\plugins\woocommerce-get-one-free/woocommerce-get-one-free.php:440
+msgid "Special Offer"
+msgstr "Special Offer"
